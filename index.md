@@ -11,3 +11,7 @@
 
 ## Lutes
 * [The Lute Page](https://www.cs.dartmouth.edu/~wbc/lute/lute.html)
+
+## Social Media
+* LinkedIn: [lutenist](https://www.linkedin.com/in/lutenist/)
+* Twitter: [lutenist](https://twitter.com/lutenist)

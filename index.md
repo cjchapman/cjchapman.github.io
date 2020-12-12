@@ -2,8 +2,8 @@
 
 ## Fonts & Text
 * [AFDKO](https://github.com/adobe-type-tools/afdko)
-* [fonttools](https://github.com/fonttools/fonttools)
-* [FontBakery](https://github.com/googlefonts/fontbakery)
+* [FontTools](https://github.com/fonttools/fonttools)
+* [Font Bakery](https://github.com/googlefonts/fontbakery)
 * [OpenType Specification](https://docs.microsoft.com/en-us/typography/opentype/spec/)
 * [The Unicode Standard](http://www.unicode.org/versions/latest/)
 

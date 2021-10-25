@@ -12,6 +12,7 @@
 ## Lutes
 * [The Lute Page](https://www.cs.dartmouth.edu/~wbc/lute/lute.html)
 * [The Lute Society](https://www.lutesociety.org/)
+* [The Lute Society of America](https://lutesocietyofamerica.org/)
 
 ## Social Media
 * LinkedIn: [lutenist](https://www.linkedin.com/in/lutenist/)
